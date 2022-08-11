@@ -1,1 +1,1 @@
-pipi on kaki
+En este repo, estaré subiendo los trabajos grupales con el fin de compartir el código con mis compañeros de equipo.
